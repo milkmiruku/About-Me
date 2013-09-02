@@ -69,7 +69,7 @@ array(20,'technorati.jpg','http://technorati.com/people/technorati/%userid%/','E
 array(21,'friendfeed.png','http://friendfeed.com/%userid%','Enter your FriendFeed username.','FriendFeed'),
 array(22,'identica.png','http://identi.ca/%userid%','Enter your Identi.ca username.','Identi.ca'),
 array(23,'bitbucket.png','http://bitbucket.org/%userid%','Enter your Bitbucket username.','Bitbucket'),
-array(24,'github.png','http://github.com/%userid%','Enter your Github username.','Github'),
+array(24,'github.png','https://github.com/%userid%','Enter your Github username.','Github'),
 array(25,'hellotxt.gif','http://hellotxt.com/user/%userid%','Enter your Hellotxt username.','Hellotxt'),
 array(26,'hyves.png','http://%userid%.hyves.nl','Enter your Hyves.nl username.','Hyves.nl'),
 array(27,'disqus.png','http://disqus.com/people/%userid%','Enter your Disqus username.','Disqus'),
