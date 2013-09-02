@@ -51,7 +51,7 @@ array(2,'linkedin.png','%userid%','Enter your complete LinkedIn URL.','LinkedIn'
 array(3,'picasa.png','http://picasaweb.google.com/%userid%','Enter your Picasa(Google) username.','Picasa Web Album'),
 array(4,'flickr.png','http://flickr.com/photos/%userid%','Enter your flickr username','Flickr'),
 array(5,'youtube.png','http://www.youtube.com/%userid%','Enter your YouTube username','YouTube'),
-array(6,'twitter.png','http://twitter.com/%userid%','Enter your Twitter username','Twitter'),
+array(6,'twitter.png','https://twitter.com/%userid%','Enter your Twitter username','Twitter'),
 array(7,'pownce.png','http://pownce.com/%userid%','Enter your Pownce username','Pownce'),
 array(8,'plurk.png','http://www.plurk.com/user/%userid%','Enter your Plurk username','Plurk'),
 array(9,'digg.png','http://www.digg.com/users/%userid%','Enter your Digg username.','Digg'),
